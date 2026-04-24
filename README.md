@@ -21,6 +21,9 @@ This repository contains a comprehensive manual testing suite for the [Automatio
 - **Browsers:** Google Chrome, Microsoft Edge
 - **Documentation:** Microsoft Excel, Word
 - **Methodology:** Manual Functional Testing, Boundary Value Analysis, Negative Testing.
+- 
+## Bugtracking
+- https://github.com/hridayakp/Automation-Exercise-Manual-Testing/issues
 
 ## Author
 **Hridaya K. Prabhakaran** *QA Test Engineer*
